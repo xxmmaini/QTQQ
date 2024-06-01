@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>blue70-2.gif</file>
+        <file>myicon_2.png</file>
+        <file>myicon_3.png</file>
+        <file>tx01.jpg</file>
+        <file>tx02.jpg</file>
+        <file>tx03.jpg</file>
+        <file>grey.png</file>
+        <file>personman.png</file>
+        <file>tx01_h.jpg</file>
+        <file>tx02_h.jpg</file>
+        <file>tx03_h.jpg</file>
+        <file>qtx01.jpg</file>
+    </qresource>
+</RCC>
